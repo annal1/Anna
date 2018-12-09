@@ -1,0 +1,4 @@
+Git init
+git clone repo
+git pull
+git push origin master
